@@ -1,0 +1,21 @@
+Spring Boot Error Handling Guide:
+	https://www.codejava.net/frameworks/spring-boot/spring-boot-error-handling-guide
+
+Spring Boot Controller-Based Exception Handler Examples:
+	https://www.codejava.net/frameworks/spring-boot/controller-based-exception-handler-examples
+
+Spring Boot Global Exception Handler Examples:
+	https://www.codejava.net/frameworks/spring-boot/global-exception-handler-examples
+
+Annotations:
+	@ControllerAdvice: 
+		https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/ControllerAdvice.html
+
+	@ExceptionHandler:
+		https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/ExceptionHandler.html
+
+	@ResponseStatus:
+		https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/ResponseStatus.html
+
+	@ResponseBody:
+		https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/bind/annotation/ResponseBody.html
